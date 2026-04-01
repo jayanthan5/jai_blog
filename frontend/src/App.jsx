@@ -12,7 +12,7 @@ function App() {
 
           <Route path="/admin/login" element={<AdminLogin />} />
           <Route path="/admin/dashboard" element={<AdminDashboard />} />
-
+          <Route path="/admin/create-post" element={<CreatePost />} />
       </Routes>
 
     </BrowserRouter>

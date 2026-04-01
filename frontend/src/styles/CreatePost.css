@@ -1,0 +1,38 @@
+.create-container{
+max-width:600px;
+margin:50px auto;
+padding:20px;
+background:white;
+border-radius:8px;
+box-shadow:0px 0px 10px rgba(0,0,0,0.1);
+}
+
+.create-container h2{
+margin-bottom:20px;
+}
+
+.create-container input,
+.create-container textarea{
+width:100%;
+padding:10px;
+margin-bottom:15px;
+border:1px solid #ccc;
+border-radius:5px;
+}
+
+.create-container textarea{
+height:150px;
+}
+
+.create-container button{
+padding:10px;
+background:#28a745;
+color:white;
+border:none;
+border-radius:5px;
+cursor:pointer;
+}
+
+.create-container button:hover{
+background:#218838;
+}
