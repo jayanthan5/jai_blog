@@ -1,0 +1,6 @@
+{
+  "name": "Jai-Blog",
+  "description": "Visual drag-and-drop blog platform with public reader, category discovery, secure 2FA admin dashboard, file download permissions, and Java Spring Boot (Maven) backend architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
